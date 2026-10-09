@@ -1,3 +1,19 @@
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%" align="center">
+        <!-- Photo is naturally square since the source image is square -->
+        <img src="https://w4eqgj9ja9svdrke.public.blob.vercel-storage.com/krishnapatel2.jpg" alt="Krishna Patel" width="220" />
+      </td>
+      <td width="70%" align="center">
+        <a href="https://github.com/ikrishnapatel">
+          <img src="https://ghchart.rshah.org/22c55e/ikrishnapatel" alt="Krishna's GitHub Contribution Graph" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # Hi there, I'm Krishna Patel! 👋 
 
 ### Backend & Cloud Engineer | AI Enthusiast
@@ -32,15 +48,8 @@ I'm a passionate Software Engineer with over 3 years of enterprise experience bu
 
 <br/>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikrishnapatel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Krishna's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrishnapatel&theme=radical&hide_border=true&background=0D1117" alt="Krishna's GitHub Streak" />
-</div>
-
-<br/>
 
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikrishnapatel) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ikrishnapatel.github.io) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://ikrishnapatel.vercel.app) 
